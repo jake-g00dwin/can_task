@@ -18,6 +18,7 @@
  * Give plug and play capability for new sensor modules.
  * Allow duplicate sensors from differnt sensor_modules.
  * give a standard interface for both teams.
+ * Handle all the CAN bus code.
 
 ## Shared interface:
 
